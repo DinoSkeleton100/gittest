@@ -2,3 +2,8 @@ body {
   background-color: #3B4B5E;
   color: white;
 }
+
+.card {
+  background-color: white;
+  opacity: 0.5;
+}
